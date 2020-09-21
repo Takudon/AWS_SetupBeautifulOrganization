@@ -12,7 +12,7 @@ You can extend beautiful AWS Organization by (i)Create your own AWS Account. (ii
 python getting_started.py [Your AWS Root Account ID] [Your AWS Profile] [MFA Token]
 ```
 
-## Team 
+## Contributors
 Private.
 
 Please be my friend.
