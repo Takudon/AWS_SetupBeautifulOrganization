@@ -25,6 +25,8 @@ Please see deployment for notes on how to deploy the project on a live system.
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
+This software includes the work that is distributed in the Apache License 2.0.
+
 
 ## Acknowledgments
 * Inspiration/ https://aws.amazon.com/jp/blogs/security/how-to-use-aws-organizations-to-automate-end-to-end-account-creation/
