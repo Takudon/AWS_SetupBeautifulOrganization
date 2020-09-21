@@ -1,2 +1,4 @@
 # AWS_SetupBeautifulOrganization
-Like Control Tower, you can extend AWS beautiful oraganization tree with highly security, privilege operation.
+My idea of the strongest AWS Organization operation.
+
+
