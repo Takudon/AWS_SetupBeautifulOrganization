@@ -4,7 +4,7 @@
 
 # AWS SetupBeautifulOrganization
 
-Dear begginer of AWS Operator. This project is kicked, with my idea of the strongest AWS Organization operation.
+Dear begginer of AWS Operator. This project is started, with my idea of the strongest AWS Organization operation.
 
 You can extend beautiful AWS Organization by (i)Create your own AWS Account. (ii)Regist you profile. (iii)Execute following command.
 
