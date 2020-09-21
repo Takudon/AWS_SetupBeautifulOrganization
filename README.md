@@ -22,4 +22,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 Please see deployment for notes on how to deploy the project on a live system.
 
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
+
+## Acknowledgments
+* Inspiration/ https://aws.amazon.com/jp/blogs/security/how-to-use-aws-organizations-to-automate-end-to-end-account-creation/
